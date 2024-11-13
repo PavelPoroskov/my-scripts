@@ -1,0 +1,6 @@
+OPTIONS=-auth cert:// \
+    -cafile /etc/dumbproxy/dumbproxy-ca.pem \
+    -cert /etc/dumbproxy/dumbproxy-srv.pem \
+    -key /etc/dumbproxy/dumbproxy-srv-key.pem \
+    -bind-address :443
+

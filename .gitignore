@@ -2,4 +2,7 @@
 **/*.crt
 **/*.p12
 **/*.env
+**/*.key
+**/*.tlsauth
+**/*dav_passwords
 
