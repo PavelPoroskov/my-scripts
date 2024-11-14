@@ -3,10 +3,6 @@
     "DisableFirefoxAccounts": true,
     "DisablePocket": true,
     "ExtensionSettings": {
-      "boomark-info0@paulprs.net": {
-        "installation_mode": "force_installed",
-        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/boomark-info0@paulprs.net/latest.xpi"
-      },
       "{d270de14-df6e-4f0b-a81a-7163af0368f3}": {
         "installation_mode": "force_installed",
         "install_url": "https://addons.mozilla.org/firefox/downloads/latest/{d270de14-df6e-4f0b-a81a-7163af0368f3}/latest.xpi"
